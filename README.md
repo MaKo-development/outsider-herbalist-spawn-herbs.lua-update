@@ -1,7 +1,7 @@
 Herbalist Expansion — herp.lua Update
 🧭 Overview
 
-This update expands the existing herbalist system with over 8000 unique herb spawn points distributed across the entire GTA V map.
+This update expands the existing herbalist system with over 8000 unique herb spawn points distributed across the entire RedM map.
 Each region now features its own specific herbs, making exploration, collection, and trade far more dynamic and immersive.
 
 This update is built upon:
